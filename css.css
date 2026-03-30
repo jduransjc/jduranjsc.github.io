@@ -1,8 +1,29 @@
 body {
-		background-color: pink;
+		background-color: grey;
+}
+
+html {
+	font-size: 16px;
 }
 
 h1 {
 	color: navy;
 	margin-left:20px;
+	font-size: 2.5rem;
+}
+
+p {
+	font-size: 1rem;
+}
+
+.box-element {
+	width: 200px;
+	padding: 20px;
+	border: 2px solid #5D6063;
+	margin: 20px;
+	box-sizing: border-box;
+}
+
+.card {
+	box-shadow: 5px 5px 15px 5px #888888;
 }
