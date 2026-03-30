@@ -27,3 +27,9 @@ p {
 .card {
 	box-shadow: 5px 5px 15px 5px #888888;
 }
+
+.txtlogo {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
