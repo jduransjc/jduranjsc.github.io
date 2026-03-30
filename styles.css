@@ -42,3 +42,7 @@ p {
 .navbar a {
 	color: white;
 }
+
+.navbar a:hover {
+	text-decoration: underline;
+}
