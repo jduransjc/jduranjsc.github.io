@@ -7,10 +7,9 @@ html {
 }
 
 h1 {
-	color: pink;
-	margin-left:60px;
+	color: Red;
 	font-size: 64px;
-	border: 3px solid red;
+	border: 3px solid blue;
 }
 
 p {
@@ -25,7 +24,7 @@ p {
 	box-sizing: border-box;
 }
 
-.card {
+.gamelist {
 	box-shadow: 5px 5px 15px 5px #888888;
 }
 
@@ -47,3 +46,4 @@ p {
 .navbar a:hover {
 	text-decoration: underline;
 }
+
